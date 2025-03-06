@@ -1,0 +1,5 @@
+/.venv
+
+/MultiPdfChat/.env
+
+/MultiPdfChat/__pycache__
