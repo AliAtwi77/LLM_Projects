@@ -31,7 +31,8 @@ This project is a Retrieval-Augmented Generation (RAG) chatbot that allows users
 This project requires certain environment variables to be set in a .env file. Create a .env file in the root directory and add the following variables:
 
 `GOOGLE_API_KEY=your_google_api_key`
-if you like to use the Google api visit this website: [Google_API]([https://www.google.com](https://ai.google.dev/gemini-api/docs/api-key)) 
+
+if you like to use the Google api visit this website:([https://www.google.com](https://ai.google.dev/gemini-api/docs/api-key)) 
 
 # **Usage**
 1.Go to the MultiPdfDirectory
